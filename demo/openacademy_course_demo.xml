@@ -1,0 +1,22 @@
+<openerp>
+    <data>
+        <record id="course0" model="openacademy.course">
+            <field name="name">Couser 0</field>
+            <field name="description">Couser's 0  Description can have multiple lines
+            like these
+            </field>
+        </record>
+        <record id="course1" model="openacademy.course">
+            <field name="name">Couser 1</field>
+            <field name="description">Couser's 1 Description can have multiple lines
+            like these
+            </field>
+        </record>
+        <record id="course2" model="openacademy.course">
+            <field name="name">Couser 2</field>
+            <field name="description">Couser's 2 Description can have multiple lines
+            like these
+            </field>
+        </record>
+    </data>
+</openerp>
